@@ -49,20 +49,7 @@ The groups appeared to be a coordinated scam, but participant identities and rol
  
 - Usernames, profile photos, phone numbers, and other identifying details were replaced or obscured (the "GateMix" brand name is retained).
 - Screenshots were edited to remove identifying information.
-- WhatsApp has removed both groups.
-> **Note:** [Describe here what, if anything, this repository shares: e.g., anonymized data, analysis scripts, figures. Update this section before publishing.]
- 
-## Repository Contents
- 
-> [Fill in to match your repository. Example layout:]
- 
-```
-.
-├── paper/        # PDF of the paper
-├── figures/      # Network graphs, heatmaps, and architecture diagram
-├── analysis/     # Scripts or notebooks for temporal / network analysis
-└── README.md
-```
+- WhatsApp has removed both groups. 
  
 ## Citation
  
