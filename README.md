@@ -4,7 +4,6 @@ A mixed-methods case study of how coordinated groups of fake accounts manufactur
  
 **Authors:** Derek Hansen, Benjamin Schooley, Ryan Rushton, Diego R. Orozco del Cid, Zane Wong, Jonathan Houston
 **Affiliation:** Brigham Young University, Ira A. Fulton College of Engineering, Provo, UT
-**Funding:** Supported in part by NSF #2336409
  
 ---
  
