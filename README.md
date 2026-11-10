@@ -60,7 +60,6 @@ If you use or reference this work, please cite:
   title     = {Community Deception Techniques: Coordinated Social Engineering in WhatsApp Group Scams},
   author    = {Hansen, Derek and Schooley, Benjamin and Rushton, Ryan and
                Orozco del Cid, Diego R. and Wong, Zane and Houston, Jonathan},
-  booktitle = {[Venue]},
   year      = {2026}
 }
 ```
